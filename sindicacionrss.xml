@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Novedades - Biblioteca Virtual santa alba</title>
+    <link>https://nalejandrarodriguezr.github.io/proyectoNARR.github.io/</link>
+    <description>Nuevas adquisiciones y recursos de la Biblioteca Virtual santa alba.</description>
+    <language>es-es</language>
+    <item>
+        <title>Nueva Adquisición: "DUEÑOS DEL MUNDO" de José Calvo Poyato</title>
+        <link>https://www.casadellibro.com/libro-duenos-del-mundo/9788410642348/16640737</link>
+        <description>En 1580 Felipe II es proclamado rey de Portugal. A partir de entonces, en sus dominios no se pondrá el sol.</description>
+    </item>
+    <item>
+        <title>Nuevo Recurso: "LOS AHOGADOS" de Juan Gabriel Vásquez (Edición Digital)</title>
+        <link>https://www.casadellibro.com/libro-los-ahogados-quirke--strafford-2/9788420477022/16492529</link>
+        <description>UNA FICCIÓN CON BASE REAL SOBRE UNA ARTISTA EXCEPCIONAL QUE SUPO ENFRENTARSE A TODAS LAS CONVENCIONES DE SU MUNDO.</description>
+    </item>
+    <item>
+        <title>Nueva Colección: "EL SIGLO DEL MILAGRO" de Rodrigo Costoya Santos</title>
+        <link>https://www.casadellibro.com/libro-el-siglo-del-milagro/9788410070608/16749257</link>
+        <description>Sumérgete en una colección de relatos la humanidad en la edad media.</description>
+    </item>
+</channel>
+</rss>
